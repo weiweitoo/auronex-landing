@@ -35,11 +35,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-trophy:before { content: "\f100"; }
-.flaticon-medal:before { content: "\f101"; }
-.flaticon-handshake:before { content: "\f102"; }
-.flaticon-lawyer:before { content: "\f103"; }
-.flaticon-health-insurance:before { content: "\f104"; }
-.flaticon-courthouse:before { content: "\f105"; }
-.flaticon-balance:before { content: "\f106"; }
-.flaticon-gavel:before { content: "\f107"; }
+.flaticon-game-controller:before { content: "\f100"; }
+.flaticon-bars:before { content: "\f101"; }
+.flaticon-creativity:before { content: "\f102"; }
+.flaticon-blockchain:before { content: "\f103"; }
+.flaticon-cellphone:before { content: "\f104"; }
+.flaticon-web-programming:before { content: "\f105"; }
